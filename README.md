@@ -1,4 +1,4 @@
-# Treefficiency 
+# Treefficiency
 
 Treeficiency is a mobile app developed for Android/iOS that gamifies the reduction of energy usage by offering competition through leaderboards and incentivizing through rewards and a points system. Users can log their monthly energy usage from their power bill and track the power drawn from their appliances and log when those appliances are turned on or even the phantom energy usage when they’re simply plugged in. Logging this information and taking steps to reduce energy usage will earn the user points which will place them on the leaderboard and that they can redeem for rewards. 
 
